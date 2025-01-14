@@ -159,7 +159,7 @@ For more examples have a look at [Marinade TS CLI](https://github.com/marinade-f
 ## Learn more
 - [Marinade web](https://marinade.finance)
 - [Marinade docs](https://docs.marinade.finance/)
-- [Join on Discord](https://discord.com/invite/6EtUf4Euu6)
+- [Join on Discord](https://discord.com/invite/yTdH8YkYKg)
 
 ## Marinade Lookup Table
 Marinade lookup table address: [`DCcQeBaCiYsEsjjmEsSYPCr9o4n174LKqXNDvQT5wVd8`](https://solscan.io/account/DCcQeBaCiYsEsjjmEsSYPCr9o4n174LKqXNDvQT5wVd8#tableEntries)
